@@ -12,6 +12,7 @@ if event_data[? "event_type"] == "sprite event" // or you can check "sprite even
             // som do slash
 			sound_play(snd_player_slash, 1);
 			create_player_hitbox(x, y, sprite_index, image_index, obj_player_hitbox);
+		
 		} break;
     }
 } 
