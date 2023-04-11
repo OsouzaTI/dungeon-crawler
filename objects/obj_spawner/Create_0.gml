@@ -1,0 +1,11 @@
+SPAWN_TIME = 3;
+SPAWN_DISTANCE = 60;
+SPAWN_LOCK = false;
+CURRENT_TIME = 0;
+MAX_INSTANCES_PER_SPAWN = 5;
+NUM_OF_INSTANCES = 0;
+ENEMY_INSTANCE = obj_slime_green
+ENEMY_LIST = ds_list_create();
+
+alarm[0] = 1;
+

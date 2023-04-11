@@ -1,0 +1,2 @@
+audio_emitter_free(ANIMATOR_AUDIO_EMITTER_0);
+audio_emitter_free(ANIMATOR_AUDIO_EMITTER_1);

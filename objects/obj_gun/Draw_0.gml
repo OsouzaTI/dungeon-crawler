@@ -1,0 +1,1 @@
+gun_draw_mira();
